@@ -13,6 +13,7 @@ public class Application {
 
     public static void main(String[] args) {
         SpringApplication.run(Application.class);
-        System.out.println(22222222222222222222);
+        System.out.println(2222222);
+        System.out.println(777777);
     }
 }
